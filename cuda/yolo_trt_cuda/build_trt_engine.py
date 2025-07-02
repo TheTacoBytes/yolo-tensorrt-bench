@@ -1,4 +1,3 @@
-# build_trt_engine.py
 import tensorrt as trt
 
 ONNX_MODEL = "yolo11n-seg.onnx"
